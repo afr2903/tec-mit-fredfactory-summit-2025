@@ -14,7 +14,7 @@ export default function RegisterPage() {
           <div className="max-w-4xl mx-auto h-[800px] border rounded-lg overflow-hidden">
             {/* Replace the src with your actual Google Form embed URL */}
             <iframe
-              src="https://docs.google.com/forms/d/e/1FAIpQLSfYz1LjgGYBgXS7pm9vafmXW9kWZcWQGf1QaFTZ3NQ4VjJV9A/viewform?embedded=true"
+              src="https://docs.google.com/forms/d/e/1FAIpQLSeCJToLpocEfXo-dAWYlB0IyL-wX-1aCv8mJFZM0fff7dKHrA/viewform?embedded=true"
               width="100%"
               height="100%"
               frameBorder="0"

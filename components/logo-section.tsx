@@ -46,7 +46,7 @@ export function LogoSection() {
             </div>
           </div>
         </div>
-        <div className="mx-auto max-w-5xl border-t pt-12">
+        {/*<div className="mx-auto max-w-5xl border-t pt-12">
           <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <div className="space-y-2">
               <h3 className="text-2xl font-bold">Supporting Partners</h3>
@@ -90,7 +90,7 @@ export function LogoSection() {
               />
             </div>
           </div>
-        </div>
+        </div>*/}
       </div>
     </section>
   )

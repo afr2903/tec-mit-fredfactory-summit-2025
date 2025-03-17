@@ -8,17 +8,19 @@ export function AboutSection() {
           <div className="space-y-6">
             <h2 className="text-3xl font-bold tracking-tighter">About FrED Factory Week</h2>
             <p className="text-lg text-muted-foreground">
+              Fiber Extrusion Device (FrED) is a desktop fiber extrusion system that mimics continuous fiber draw process for hands-on learning and/or laboratory experience on data acquisition, control system, and smart manufacturing.
+            </p>
+            <p className="text-lg text-muted-foreground">
               The FrED Factory Summit is a collaborative initiative between Tecnológico de Monterrey and the
-              Massachusetts Institute of Technology (MIT) focused on the future of education.
+              Massachusetts Institute of Technology (MIT) focused sharing the vision about the future of Manufacturing Education.
             </p>
             <p className="text-lg text-muted-foreground">
               This week-long event brings together educators, researchers, technologists, and industry leaders to
-              explore innovative approaches to educational challenges through design thinking, technology integration,
+              explore our innovative approaches to educational challenges through technology integration
               and cross-disciplinary collaboration.
             </p>
             <p className="text-lg text-muted-foreground">
-              Participants will engage in workshops, panel discussions, design sprints, and networking events designed
-              to foster innovation and create lasting partnerships between our institutions.
+              Participants will engage in workshops, panel discussions, and networking events designed to foster innovation.
             </p>
           </div>
           <div className="flex justify-center">
@@ -70,6 +72,15 @@ export function AboutSection() {
               width={240}
               height={120}
               alt="Massachusetts Institute of Technology Logo"
+              className="h-20 object-contain mx-auto"
+            />
+          </div>
+          <div className="text-center">
+            <Image
+              src="/placeholder.svg?height=120&width=240"
+              width={240}
+              height={120}
+              alt="FrED Factory Logo"
               className="h-20 object-contain mx-auto"
             />
           </div>

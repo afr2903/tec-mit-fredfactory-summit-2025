@@ -26,13 +26,18 @@ const config = {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "hsl(var(--primary))",
-          foreground: "hsl(var(--primary-foreground))",
+          DEFAULT: "#000035", // Pantone 2760 C
+          foreground: "#FFFFFF",
         },
         secondary: {
-          DEFAULT: "hsl(var(--secondary))",
-          foreground: "hsl(var(--secondary-foreground))",
+          DEFAULT: "#D0D0D0", // Pantone Cool Gray 3 C
+          foreground: "#000000",
         },
+        prosperity: "#8C9093", // Pantone Metallic 10388 C
+        synergy: "#001391", // Pantone Reflex Blue C
+        gray: "#0000FF", // Pantone 272B C
+        people: "#E40032", // Pantone 1788 C
+        planet: "#00B852", // Pantone 260 C
         destructive: {
           DEFAULT: "hsl(var(--destructive))",
           foreground: "hsl(var(--destructive-foreground))",
@@ -40,10 +45,6 @@ const config = {
         muted: {
           DEFAULT: "hsl(var(--muted))",
           foreground: "hsl(var(--muted-foreground))",
-        },
-        accent: {
-          DEFAULT: "hsl(var(--accent))",
-          foreground: "hsl(var(--accent-foreground))",
         },
         popover: {
           DEFAULT: "hsl(var(--popover))",

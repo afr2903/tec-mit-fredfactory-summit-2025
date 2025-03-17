@@ -15,20 +15,20 @@ export function ContactSection() {
           <div className="flex flex-col items-center text-center p-6 bg-background rounded-lg shadow-sm">
             <Mail className="h-10 w-10 text-primary mb-4" />
             <h3 className="text-xl font-bold mb-2">Email</h3>
-            <p className="text-muted-foreground">fredfactory@tec-mit.edu</p>
+            <p className="text-muted-foreground">erickramce@tec.mx</p>
           </div>
 
           <div className="flex flex-col items-center text-center p-6 bg-background rounded-lg shadow-sm">
             <Phone className="h-10 w-10 text-primary mb-4" />
             <h3 className="text-xl font-bold mb-2">Phone</h3>
-            <p className="text-muted-foreground">+1 (617) 555-1234</p>
+            <p className="text-muted-foreground">+52 (812) 000 9844</p>
           </div>
 
           <div className="flex flex-col items-center text-center p-6 bg-background rounded-lg shadow-sm">
             <MapPin className="h-10 w-10 text-primary mb-4" />
             <h3 className="text-xl font-bold mb-2">Venue</h3>
-            <p className="text-muted-foreground">MIT Media Lab</p>
-            <p className="text-muted-foreground">75 Amherst St, Cambridge, MA 02139</p>
+            <p className="text-muted-foreground">Tecnológico de Monterrey</p>
+            <p className="text-muted-foreground">Av. Eugenio Garza Sada 2501 Sur, Tecnológico, 64700</p>
           </div>
         </div>
       </div>

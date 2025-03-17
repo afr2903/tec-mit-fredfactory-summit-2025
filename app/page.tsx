@@ -4,6 +4,7 @@ import { AboutSection } from "@/components/about-section"
 import { AgendaPreviewSection } from "@/components/agenda-preview-section"
 import { SpeakersPreviewSection } from "@/components/speakers-preview-section"
 import { ContactSection } from "@/components/contact-section"
+import { LogoSection } from "@/components/logo-section"
 import { Footer } from "@/components/footer"
 
 export default function Home() {
@@ -14,7 +15,7 @@ export default function Home() {
         <HeroSection />
         <AboutSection />
         <AgendaPreviewSection />
-        <SpeakersPreviewSection />
+        <LogoSection />
         <ContactSection />
       </main>
       <Footer />
