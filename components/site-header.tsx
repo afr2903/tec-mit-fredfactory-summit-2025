@@ -34,7 +34,7 @@ export function SiteHeader() {
           </Link>
           <Link href="/" className="flex items-center space-x-2">
             <Image
-              src="/placeholder.svg?height=40&width=200"
+              src="/fred-logo.png?height=40&width=200"
               alt="FrED Factory"
               width={200}
               height={40}

@@ -77,7 +77,7 @@ export function AboutSection() {
           </div>
           <div className="text-center">
             <Image
-              src="/placeholder.svg?height=120&width=240"
+              src="/fred-logo.png?height=120&width=240"
               width={240}
               height={120}
               alt="FrED Factory Logo"
