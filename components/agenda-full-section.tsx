@@ -89,7 +89,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -103,7 +103,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -117,7 +117,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/erick.jpeg?height=48&width=48"
                         alt="Prof. Erick Ramírez-Cedillo"
                         fill
                         className="object-cover rounded-full"
@@ -150,7 +150,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -164,7 +164,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -178,7 +178,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/erick.jpeg?height=48&width=48"
                         alt="Prof. Erick Ramírez-Cedillo"
                         fill
                         className="object-cover rounded-full"
@@ -211,7 +211,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -225,7 +225,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -239,7 +239,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/erick.jpeg?height=48&width=48"
                         alt="Prof. Erick Ramírez-Cedillo"
                         fill
                         className="object-cover rounded-full"
@@ -274,7 +274,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -288,7 +288,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -302,7 +302,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/erick.jpeg?height=48&width=48"
                         alt="Prof. Erick Ramírez-Cedillo"
                         fill
                         className="object-cover rounded-full"
@@ -316,7 +316,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/pedro.jpeg?height=48&width=48"
                         alt="Dr. Pedro Ponce Cruz"
                         fill
                         className="object-cover rounded-full"
@@ -352,7 +352,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -366,7 +366,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -380,7 +380,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/erick.jpeg?height=48&width=48"
                         alt="Prof. Erick Ramírez-Cedillo"
                         fill
                         className="object-cover rounded-full"
@@ -416,7 +416,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -430,7 +430,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -468,7 +468,7 @@ export function AgendaFullSection() {
                 <div className="flex items-center gap-3 mt-6">
                   <div className="relative w-12 h-12">
                     <Image
-                      src="/placeholder.svg?height=48&width=48"
+                      src="/pedro.jpeg?height=48&width=48"
                       alt="Dr. Pedro Ponce Cruz"
                       fill
                       className="object-cover rounded-full"
@@ -500,7 +500,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/sergio.jpeg?height=48&width=48"
                         alt="Sergio Siller"
                         fill
                         className="object-cover rounded-full"
@@ -514,7 +514,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/gil.jpeg?height=48&width=48"
                         alt="Gilberto Ramírez"
                         fill
                         className="object-cover rounded-full"
@@ -528,7 +528,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/arik.jpeg?height=48&width=48"
                         alt="Arik Gómez"
                         fill
                         className="object-cover rounded-full"
@@ -563,7 +563,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/sergio.jpeg?height=48&width=48"
                         alt="Sergio Siller"
                         fill
                         className="object-cover rounded-full"
@@ -577,7 +577,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/gil.jpeg?height=48&width=48"
                         alt="Gilberto Ramírez"
                         fill
                         className="object-cover rounded-full"
@@ -591,7 +591,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/arik.jpeg?height=48&width=48"
                         alt="Arik Gómez"
                         fill
                         className="object-cover rounded-full"
@@ -605,7 +605,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/leo.jpeg?height=48&width=48"
                         alt="Leonardo Galán"
                         fill
                         className="object-cover rounded-full"
@@ -619,7 +619,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/adan.jpg?height=48&width=48"
                         alt="Adán Flores"
                         fill
                         className="object-cover rounded-full"
@@ -633,7 +633,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/angel.jpeg?height=48&width=48"
                         alt="Ángel Alarcón"
                         fill
                         className="object-cover rounded-full"
@@ -647,7 +647,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/andre.jpeg?height=48&width=48"
                         alt="André Mendoza"
                         fill
                         className="object-cover rounded-full"
@@ -684,7 +684,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -698,7 +698,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -707,6 +707,105 @@ export function AgendaFullSection() {
                     <div>
                       <p className="font-medium">Russel Bradley</p>
                       <p className="text-sm text-muted-foreground">MIT</p>
+                    </div>
+                  </div>
+
+                  <div className="flex items-center gap-3">
+                    <div className="relative w-12 h-12">
+                      <Image
+                        src="/sergio.jpeg?height=48&width=48"
+                        alt="Sergio Siller"
+                        fill
+                        className="object-cover rounded-full"
+                      />
+                    </div>
+                    <div>
+                      <p className="font-medium">Sergio Siller</p>
+                      <p className="text-sm text-muted-foreground">Tec</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <div className="relative w-12 h-12">
+                      <Image
+                        src="/gil.jpeg?height=48&width=48"
+                        alt="Gilberto Ramírez"
+                        fill
+                        className="object-cover rounded-full"
+                      />
+                    </div>
+                    <div>
+                      <p className="font-medium">Gilberto Ramírez</p>
+                      <p className="text-sm text-muted-foreground">Tec</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <div className="relative w-12 h-12">
+                      <Image
+                        src="/arik.jpeg?height=48&width=48"
+                        alt="Arik Gómez"
+                        fill
+                        className="object-cover rounded-full"
+                      />
+                    </div>
+                    <div>
+                      <p className="font-medium">Arik Gómez</p>
+                      <p className="text-sm text-muted-foreground">Tec</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <div className="relative w-12 h-12">
+                      <Image
+                        src="/leo.jpeg?height=48&width=48"
+                        alt="Leonardo Galán"
+                        fill
+                        className="object-cover rounded-full"
+                      />
+                    </div>
+                    <div>
+                      <p className="font-medium">Leonardo Galán</p>
+                      <p className="text-sm text-muted-foreground">Tec</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <div className="relative w-12 h-12">
+                      <Image
+                        src="/adan.jpg?height=48&width=48"
+                        alt="Adán Flores"
+                        fill
+                        className="object-cover rounded-full"
+                      />
+                    </div>
+                    <div>
+                      <p className="font-medium">Adán Flores-Ramírez</p>
+                      <p className="text-sm text-muted-foreground">Tec</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <div className="relative w-12 h-12">
+                      <Image
+                        src="/angel.jpeg?height=48&width=48"
+                        alt="Ángel Alarcón"
+                        fill
+                        className="object-cover rounded-full"
+                      />
+                    </div>
+                    <div>
+                      <p className="font-medium">Ángel Alarcón</p>
+                      <p className="text-sm text-muted-foreground">Tec</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <div className="relative w-12 h-12">
+                      <Image
+                        src="/andre.jpeg?height=48&width=48"
+                        alt="André Mendoza"
+                        fill
+                        className="object-cover rounded-full"
+                      />
+                    </div>
+                    <div>
+                      <p className="font-medium">André Mendoza</p>
+                      <p className="text-sm text-muted-foreground">Tec</p>
                     </div>
                   </div>
                 </div>
@@ -733,7 +832,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/leo-an.jpeg?height=48&width=48"
                         alt="Leonardo Andrade Flores"
                         fill
                         className="object-cover rounded-full"
@@ -747,7 +846,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/fer.jpeg?height=48&width=48"
                         alt="María Fernanda De la Cruz Rangel"
                         fill
                         className="object-cover rounded-full"
@@ -780,7 +879,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -794,7 +893,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -829,7 +928,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/brian-anthony.jpg?height=48&width=48"
                         alt="Dr. Brian Anthony"
                         fill
                         className="object-cover rounded-full"
@@ -843,7 +942,7 @@ export function AgendaFullSection() {
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/russel.jpeg?height=48&width=48"
                         alt="Russel Bradley"
                         fill
                         className="object-cover rounded-full"
@@ -881,7 +980,7 @@ export function AgendaFullSection() {
                 <div className="flex items-center gap-3 mt-6">
                   <div className="relative w-12 h-12">
                     <Image
-                      src="/placeholder.svg?height=48&width=48"
+                      src="/pedro.jpeg?height=48&width=48"
                       alt="Dr. Pedro Ponce-Cruz"
                       fill
                       className="object-cover rounded-full"
@@ -912,7 +1011,7 @@ export function AgendaFullSection() {
                 <div className="flex items-center gap-3 mt-6">
                   <div className="relative w-12 h-12">
                     <Image
-                      src="/placeholder.svg?height=48&width=48"
+                      src="/arik.jpeg?height=48&width=48"
                       alt="Arik Gómez"
                       fill
                       className="object-cover rounded-full"
@@ -945,7 +1044,7 @@ export function AgendaFullSection() {
                 <div className="flex items-center gap-3 mt-6">
                   <div className="relative w-12 h-12">
                     <Image
-                      src="/placeholder.svg?height=48&width=48"
+                      src="/fer.jpeg?height=48&width=48"
                       alt="María Fernanda De la Cruz Rangel"
                       fill
                       className="object-cover rounded-full"
@@ -980,7 +1079,7 @@ export function AgendaFullSection() {
                 <div className="flex items-center gap-3 mt-6">
                   <div className="relative w-12 h-12">
                     <Image
-                      src="/placeholder.svg?height=48&width=48"
+                      src="/sergio.jpeg?height=48&width=48"
                       alt="Sergio Siller"
                       fill
                       className="object-cover rounded-full"
@@ -1046,7 +1145,7 @@ export function AgendaFullSection() {
                 <div className="flex items-center gap-3 mt-6">
                   <div className="relative w-12 h-12">
                     <Image
-                      src="/placeholder.svg?height=48&width=48"
+                      src="/gil.jpeg?height=48&width=48"
                       alt="Gilberto Ramírez"
                       fill
                       className="object-cover rounded-full"

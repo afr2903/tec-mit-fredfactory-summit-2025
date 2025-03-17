@@ -5,7 +5,7 @@ import { ImpactAreas } from "./impact-areas"
 
 export function HeroSection() {
   return (
-    <section className="relative w-full py-20 md:py-32 bg-[url('/placeholder.svg?height=1080&width=1920')] bg-cover bg-center">
+    <section className="relative w-full py-20 md:py-32 bg-[url('/tec-fred-factory-lab.png?height=1080&width=1920')] bg-cover bg-center">
       <div className="absolute inset-0 bg-primary/70" />
       <div className="container relative z-10 px-4 md:px-6 text-white">
         <div className="max-w-3xl mx-auto text-center space-y-8">

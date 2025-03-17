@@ -15,7 +15,7 @@ export function LogoSection() {
         <div className="mx-auto grid max-w-5xl grid-cols-1 gap-8 py-12 md:grid-cols-2">
           <div className="flex flex-col items-center justify-center space-y-4">
             <Image
-              src="/placeholder.svg?height=200&width=400"
+              src="/tec_logo.svg?height=200&width=400"
               width={400}
               height={200}
               alt="Tecnológico de Monterrey Logo"
@@ -31,7 +31,7 @@ export function LogoSection() {
           </div>
           <div className="flex flex-col items-center justify-center space-y-4">
             <Image
-              src="/placeholder.svg?height=200&width=400"
+              src="/mit_logo.png?height=200&width=400"
               width={400}
               height={200}
               alt="Massachusetts Institute of Technology Logo"

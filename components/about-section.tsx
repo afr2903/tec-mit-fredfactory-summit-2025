@@ -26,31 +26,31 @@ export function AboutSection() {
           <div className="flex justify-center">
             <div className="grid grid-cols-2 gap-4">
               <Image
-                src="/placeholder.svg?height=300&width=400"
+                src="/mit-presentation.JPEG?height=300&width=400"
                 width={400}
                 height={300}
-                alt="FrED Factory Workshop"
+                alt="MIT FrED Presentation"
                 className="rounded-lg object-cover"
               />
               <Image
-                src="/placeholder.svg?height=300&width=400"
+                src="/tec-3rd-gen.png?height=300&width=400"
                 width={400}
                 height={300}
-                alt="Collaboration Session"
+                alt="ASM Tec 3rd Generation"
                 className="rounded-lg object-cover"
               />
               <Image
-                src="/placeholder.svg?height=300&width=400"
+                src="/alfredo.png?height=300&width=400"
                 width={400}
                 height={300}
-                alt="Design Sprint"
+                alt="Al-FrED-0"
                 className="rounded-lg object-cover"
               />
               <Image
-                src="/placeholder.svg?height=300&width=400"
+                src="/mit-fred-lab.jpeg?height=300&width=400"
                 width={400}
                 height={300}
-                alt="Panel Discussion"
+                alt="MIT FrED Lab"
                 className="rounded-lg object-cover"
               />
             </div>
@@ -59,7 +59,7 @@ export function AboutSection() {
         <div className="mt-16 flex flex-col md:flex-row justify-center items-center gap-12">
           <div className="text-center">
             <Image
-              src="/placeholder.svg?height=120&width=240"
+              src="/tec_logo.svg?height=120&width=240"
               width={240}
               height={120}
               alt="Tecnológico de Monterrey Logo"
@@ -68,7 +68,7 @@ export function AboutSection() {
           </div>
           <div className="text-center">
             <Image
-              src="/placeholder.svg?height=120&width=240"
+              src="/mit_logo.png?height=120&width=240"
               width={240}
               height={120}
               alt="Massachusetts Institute of Technology Logo"

@@ -16,7 +16,7 @@ export function SiteHeader() {
         <div className="flex items-center gap-2">
           <Link href="/" className="flex items-center space-x-2">
             <Image
-              src="/placeholder.svg?height=40&width=200"
+              src="/tec_logo.svg?height=40&width=200"
               alt="Tecnológico de Monterrey"
               width={200}
               height={40}
@@ -25,7 +25,7 @@ export function SiteHeader() {
           </Link>
           <Link href="/" className="flex items-center space-x-2">
             <Image
-              src="/placeholder.svg?height=40&width=200"
+              src="/mit_logo.png?height=40&width=200"
               alt="MIT"
               width={200}
               height={40}
