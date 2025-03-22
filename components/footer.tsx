@@ -13,19 +13,19 @@ export function Footer() {
           </div>
 
           <div className="flex space-x-4">
-            <Link href="https://www.facebook.com/escueladeingenieriayciencias" className="text-muted-foreground hover:text-foreground">
+            <Link href="https://www.facebook.com/escueladeingenieriayciencias" className="text-muted-foreground hover:text-primary">
               <Facebook className="h-5 w-5" />
               <span className="sr-only">Facebook</span>
             </Link>
-            <Link href="https://x.com/IngenieriasTec" className="text-muted-foreground hover:text-foreground">
+            <Link href="https://x.com/IngenieriasTec" className="text-muted-foreground hover:text-primary">
               <Twitter className="h-5 w-5" />
               <span className="sr-only">Twitter</span>
             </Link>
-            <Link href="https://www.instagram.com/ingenieriastec/" className="text-muted-foreground hover:text-foreground">
+            <Link href="https://www.instagram.com/ingenieriastec/" className="text-muted-foreground hover:text-primary">
               <Instagram className="h-5 w-5" />
               <span className="sr-only">Instagram</span>
             </Link>
-            <Link href="https://www.linkedin.com/company/ingenieriaycienciastec" className="text-muted-foreground hover:text-foreground">
+            <Link href="https://www.linkedin.com/company/ingenieriaycienciastec" className="text-muted-foreground hover:text-primary">
               <Linkedin className="h-5 w-5" />
               <span className="sr-only">LinkedIn</span>
             </Link>
