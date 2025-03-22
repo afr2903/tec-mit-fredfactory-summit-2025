@@ -29,10 +29,6 @@ export function Footer() {
               <Linkedin className="h-5 w-5" />
               <span className="sr-only">LinkedIn</span>
             </Link>
-            <Link href="#" className="text-muted-foreground hover:text-foreground">
-              <Youtube className="h-5 w-5" />
-              <span className="sr-only">YouTube</span>
-            </Link>
           </div>
         </div>
       </div>
