@@ -70,19 +70,19 @@ export function FooterSection() {
           <div className="space-y-4">
             <h3 className="text-lg font-bold">Connect With Us</h3>
             <div className="flex space-x-4">
-              <Link href="#" className="text-muted-foreground hover:text-foreground">
+              <Link href="https://www.facebook.com/escueladeingenieriayciencias" className="text-muted-foreground hover:text-foreground">
                 <Facebook className="h-5 w-5" />
                 <span className="sr-only">Facebook</span>
               </Link>
-              <Link href="#" className="text-muted-foreground hover:text-foreground">
+              <Link href="https://x.com/IngenieriasTec" className="text-muted-foreground hover:text-foreground">
                 <Twitter className="h-5 w-5" />
                 <span className="sr-only">Twitter</span>
               </Link>
-              <Link href="#" className="text-muted-foreground hover:text-foreground">
+              <Link href="https://www.instagram.com/ingenieriastec/" className="text-muted-foreground hover:text-foreground">
                 <Instagram className="h-5 w-5" />
                 <span className="sr-only">Instagram</span>
               </Link>
-              <Link href="#" className="text-muted-foreground hover:text-foreground">
+              <Link href="https://www.linkedin.com/company/ingenieriaycienciastec" className="text-muted-foreground hover:text-foreground">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </Link>

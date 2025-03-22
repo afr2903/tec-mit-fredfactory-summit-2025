@@ -56,17 +56,17 @@ export function AgendaPreviewSection() {
               <CardContent className="space-y-4">
                 <div className="border-l-4 border-primary pl-4 py-2">
                   <div className="font-medium">9:00 AM - 11:00 AM</div>
-                  <div className="text-lg font-bold">Research talk and Kick off</div>
+                  <div className="text-lg font-bold">Emerging Technologies in Manufacturing</div>
                   <div className="text-muted-foreground">Aulas 6-306</div>
                 </div>
                 <div className="border-l-4 border-primary pl-4 py-2">
                   <div className="font-medium">1:00 PM - 2:00 PM</div>
-                  <div className="text-lg font-bold">Talks Internship (Tec students at MIT)</div>
+                  <div className="text-lg font-bold">Research Internship Presentation (Tec students at MIT)</div>
                   <div className="text-muted-foreground">Biotechnology Auditorium</div>
                 </div>
                 <div className="border-l-4 border-primary pl-4 py-2">
                   <div className="font-medium">6:00 PM - 7:00 PM</div>
-                  <div className="text-lg font-bold">Conference on the Future of FrED</div>
+                  <div className="text-lg font-bold">Future of FrED and Discussion with Faculty</div>
                   <div className="text-muted-foreground">Biotechnology Auditorium</div>
                 </div>
               </CardContent>
@@ -80,13 +80,13 @@ export function AgendaPreviewSection() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="border-l-4 border-primary pl-4 py-2">
-                  <div className="font-medium">9:00 AM - 11:00 AM</div>
-                  <div className="text-lg font-bold">Research Collaborations with FrED and FrED Factory</div>
-                  <div className="text-muted-foreground">TBD</div>
-                </div>
-                <div className="border-l-4 border-primary pl-4 py-2">
                   <div className="font-medium">9:00 AM - 12:00 PM</div>
                   <div className="text-lg font-bold">MIT FrED Workshop - Computer Vision</div>
+                  <div className="text-muted-foreground">Aulas 7 lab</div>
+                </div>
+                <div className="border-l-4 border-primary pl-4 py-2">
+                  <div className="font-medium">3:00 PM - 6:00 PM</div>
+                  <div className="text-lg font-bold">Tec Al-FrED-0 Workshop - Computer Vision</div>
                   <div className="text-muted-foreground">Aulas 7 lab</div>
                 </div>
               </CardContent>

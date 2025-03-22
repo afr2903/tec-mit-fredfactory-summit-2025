@@ -24,7 +24,7 @@ export function AgendaFullSection() {
   const [filter, setFilter] = useState<EventType>("all")
 
   const filterOptions = [
-    { value: "all", label: "All Sessions" },
+    { value: "all", label: "All Events" },
     { value: "workshop", label: "Workshops" },
     { value: "panel", label: "Panels" },
     { value: "keynote", label: "Keynotes" },
@@ -255,7 +255,7 @@ export function AgendaFullSection() {
             </Card>
           )}
 
-          {shouldShowEvent("networking") && (
+          {shouldShowEvent("talk") && (
             <Card>
               <CardHeader>
                 <div className="flex justify-between items-start">
@@ -263,7 +263,7 @@ export function AgendaFullSection() {
                     <CardTitle className="text-xl">Industry meeting and tour</CardTitle>
                     <CardDescription>1:00 PM - 3:00 PM | Sala Discovery 4th floor Expedition</CardDescription>
                   </div>
-                  <Badge>Networking</Badge>
+                  <Badge>Talk</Badge>
                 </div>
               </CardHeader>
               <CardContent>
@@ -326,6 +326,39 @@ export function AgendaFullSection() {
                       <p className="font-medium">Dr. Pedro Ponce-Cruz</p>
                       <p className="text-sm text-muted-foreground">Tec</p>
                     </div>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+          )}
+
+          {shouldShowEvent("talk") && (
+            <Card>
+              <CardHeader>
+                <div className="flex justify-between items-start">
+                  <div>
+                    <CardTitle className="text-xl">Research Collaborations on FrED</CardTitle>
+                    <CardDescription>3:00 PM - 4:00 PM | Sala Fábula</CardDescription>
+                  </div>
+                  <Badge>Talk</Badge>
+                </div>
+              </CardHeader>
+              <CardContent>
+                <p className="text-muted-foreground mb-4">
+                  Discussion on research collaborations with FrED between Tec and MIT.
+                </p>
+                <div className="flex items-center gap-3 mt-6">
+                  <div className="relative w-12 h-12">
+                    <Image
+                      src="/pedro.jpeg?height=48&width=48"
+                      alt="Dr. Pedro Ponce Cruz"
+                      fill
+                      className="object-cover rounded-full"
+                    />
+                  </div>
+                  <div>
+                    <p className="font-medium">Dr. Pedro Ponce-Cruz</p>
+                    <p className="text-sm text-muted-foreground">Tec</p>
                   </div>
                 </div>
               </CardContent>
@@ -395,56 +428,6 @@ export function AgendaFullSection() {
               </CardContent>
             </Card>
           )}
-
-          {shouldShowEvent("keynote") && (
-            <Card>
-              <CardHeader>
-                <div className="flex justify-between items-start">
-                  <div>
-                    <CardTitle className="text-xl">Manufacturing/Mechanical Class Challenge Kickoff</CardTitle>
-                    <CardDescription>Time TBD | Sala Fábula</CardDescription>
-                  </div>
-                  <Badge>Keynote</Badge>
-                </div>
-              </CardHeader>
-              <CardContent>
-                <p className="text-muted-foreground mb-4">
-                  Kickoff for the Manufacturing/Mechanical Class Challenge (Only for students in Mechanical Engineering
-                  course).
-                </p>
-                <div className="flex flex-col sm:flex-row gap-4 mt-6">
-                  <div className="flex items-center gap-3">
-                    <div className="relative w-12 h-12">
-                      <Image
-                        src="/brian-anthony.jpg?height=48&width=48"
-                        alt="Dr. Brian Anthony"
-                        fill
-                        className="object-cover rounded-full"
-                      />
-                    </div>
-                    <div>
-                      <p className="font-medium">Dr. Brian Anthony</p>
-                      <p className="text-sm text-muted-foreground">MIT</p>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <div className="relative w-12 h-12">
-                      <Image
-                        src="/russel.jpeg?height=48&width=48"
-                        alt="Russel Bradley"
-                        fill
-                        className="object-cover rounded-full"
-                      />
-                    </div>
-                    <div>
-                      <p className="font-medium">Russel Bradley</p>
-                      <p className="text-sm text-muted-foreground">MIT</p>
-                    </div>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
-          )}
         </TabsContent>
 
         <TabsContent value="day2" className="space-y-6">
@@ -455,7 +438,7 @@ export function AgendaFullSection() {
               <CardHeader>
                 <div className="flex justify-between items-start">
                   <div>
-                    <CardTitle className="text-xl">Research talk Pedro Ponce and Kick off</CardTitle>
+                    <CardTitle className="text-xl">Emerging Technologies in Manufacturing with FrED and Launch of Virtual FrED Factory</CardTitle>
                     <CardDescription>9:00 AM - 11:00 AM | Aulas 6-306</CardDescription>
                   </div>
                   <Badge>Talk</Badge>
@@ -463,7 +446,7 @@ export function AgendaFullSection() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground mb-4">
-                  Research talk and kick off session for faculty and students.
+                  Presentation on emerging technologies in manufacturing with FrED and the launch of the Virtual FrED Factory.
                 </p>
                 <div className="flex items-center gap-3 mt-6">
                   <div className="relative w-12 h-12">
@@ -549,7 +532,7 @@ export function AgendaFullSection() {
               <CardHeader>
                 <div className="flex justify-between items-start">
                   <div>
-                    <CardTitle className="text-xl">Talks Internship (Tec students at MIT)</CardTitle>
+                    <CardTitle className="text-xl">Research Internship Presentation (Tec students at MIT)</CardTitle>
                     <CardDescription>1:00 PM - 2:00 PM | Biotechnology Auditorium</CardDescription>
                   </div>
                   <Badge>Talk</Badge>
@@ -669,7 +652,7 @@ export function AgendaFullSection() {
                 <div className="flex justify-between items-start">
                   <div>
                     <CardTitle className="text-xl">
-                      Kickoff / Panel Discussion for MIT Research Internship 2025
+                      Kickoff and Panel Discussion for MIT Research Internship 2025
                     </CardTitle>
                     <CardDescription>2:00 PM - 3:00 PM | Biotechnology Auditorium</CardDescription>
                   </div>
@@ -867,14 +850,16 @@ export function AgendaFullSection() {
               <CardHeader>
                 <div className="flex justify-between items-start">
                   <div>
-                    <CardTitle className="text-xl">Talk for Professors</CardTitle>
+                    <CardTitle className="text-xl">Future of FrED and FrED Factory Discussion with Faculty</CardTitle>
                     <CardDescription>4:00 PM - 6:00 PM | CETEC 315 Torre Norte</CardDescription>
                   </div>
                   <Badge>Talk</Badge>
                 </div>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground mb-4">Special talk session for professors.</p>
+                <p className="text-muted-foreground mb-4">
+                  Special session of discussion with faculty about the future of FrED and the FrED Factory.
+                </p>
                 <div className="flex flex-col sm:flex-row gap-4 mt-6">
                   <div className="flex items-center gap-3">
                     <div className="relative w-12 h-12">
@@ -961,39 +946,6 @@ export function AgendaFullSection() {
 
         <TabsContent value="day3" className="space-y-6">
           <h3 className="text-xl font-bold">Wednesday, March 26, 2025</h3>
-
-          {shouldShowEvent("talk") && (
-            <Card>
-              <CardHeader>
-                <div className="flex justify-between items-start">
-                  <div>
-                    <CardTitle className="text-xl">Research Collaborations with FrED and FrED Factory</CardTitle>
-                    <CardDescription>9:00 AM - 11:00 AM | TBD</CardDescription>
-                  </div>
-                  <Badge>Talk</Badge>
-                </div>
-              </CardHeader>
-              <CardContent>
-                <p className="text-muted-foreground mb-4">
-                  Session focused on research collaborations with FrED and FrED Factory.
-                </p>
-                <div className="flex items-center gap-3 mt-6">
-                  <div className="relative w-12 h-12">
-                    <Image
-                      src="/pedro.jpeg?height=48&width=48"
-                      alt="Dr. Pedro Ponce-Cruz"
-                      fill
-                      className="object-cover rounded-full"
-                    />
-                  </div>
-                  <div>
-                    <p className="font-medium">Dr. Pedro Ponce-Cruz</p>
-                    <p className="text-sm text-muted-foreground">Tec</p>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
-          )}
 
           {shouldShowEvent("workshop") && (
             <Card>
